@@ -1,0 +1,7 @@
+users:
+  - username: Areeba
+    roles: [AmazonEC2FullAccess]
+  - username: Urooj
+    roles: [AmazonS3ReadOnlyAccess]
+  - username: Brohi
+    roles: [AmazonS3ReadOnlyAccess, AmazonEC2FullAccess]

@@ -1,0 +1,3 @@
+output "aws-instance" {
+  value = aws_instance.WebServer_Stolkholme.public_ip
+}
