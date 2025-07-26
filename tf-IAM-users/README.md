@@ -102,24 +102,24 @@ terraform output
 
 ## Terraform Apply Output
 
-![Terraform Apply Output 1](images/terraform-apply-1.png)
+![Terraform Apply Output 1](images/iam-1.png)
 *Initial terraform apply showing resource planning*
 
-![Terraform Apply Output 2](images/terraform-apply-2.png)
+![Terraform Apply Output 2](images/iam-2.png)
 *User creation and policy attachment progress*
 
-![Terraform Apply Output 3](images/terraform-apply-3.png)
+![Terraform Apply Output 3](images/iam-3.png)
 *Final apply results with outputs*
 
 ## AWS Console Verification
 
-![AWS Console - IAM Users](images/aws-console-1.png)
+![AWS Console - IAM Users](images/iam-4.png)
 *IAM Users created in AWS Console*
 
-![AWS Console - User Policies](images/aws-console-2.png)
+![AWS Console - User Policies](images/iam-5.png)
 *Policy attachments for users*
 
-![AWS Console - VPC Resources](images/aws-console-3.png)
+![AWS Console - VPC Resources](images/iam-6.png)
 *VPC infrastructure in AWS Console*
 
 ## Configuration Details
