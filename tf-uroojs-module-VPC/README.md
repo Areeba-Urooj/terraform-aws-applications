@@ -204,35 +204,35 @@ output "private_subnet_ids" {
 
 The following screenshots show the module deployment process:
 
-![Terraform Apply Output 1](images/terraform-apply-1.png)
+![Terraform Apply Output 1](my-mod1.png)
 *Terraform initialization and planning phase*
 
-![Terraform Apply Output 2](images/terraform-apply-2.png)
+![Terraform Apply Output 2](mymod-2.png)
 *VPC creation in progress*
 
-![Terraform Apply Output 3](images/terraform-apply-3.png)
+![Terraform Apply Output 3](mymod-3.png)
 *Public subnets being created*
 
-![Terraform Apply Output 4](images/terraform-apply-4.png)
+![Terraform Apply Output 4](mymod-4.png)
 *Private subnets creation*
 
-![Terraform Apply Output 5](images/terraform-apply-5.png)
+![Terraform Apply Output 5](mymod-5.png)
 *Internet Gateway and route table setup*
 
-![Terraform Apply Output 6](images/terraform-apply-6.png)
+![Terraform Apply Output 6](mymod-6.png)
 *Route table associations being created*
 
-![Terraform Apply Output 7](images/terraform-apply-7.png)
+![Terraform Apply Output 7](mymod-7.png)
 *Final deployment completion with outputs*
 
 ## AWS Console Verification
 
 Screenshots from AWS Management Console showing the created infrastructure:
 
-![AWS Console VPC View](images/aws-console-1.png)
+![AWS Console VPC View](mymod-8.png)
 *VPC Dashboard showing the created VPC and its components*
 
-![AWS Console Subnets View](images/aws-console-2.png)
+![AWS Console Subnets View](mymod-9.png)
 *Subnets view showing public and private subnets across availability zones*
 
 ## Module Structure
