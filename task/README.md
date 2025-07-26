@@ -73,7 +73,7 @@ terraform output
 ![Terraform Apply Output 1](tf-task1.png)
 ![Terraform Apply Output 2](tf-task-2.png)
 ![Terraform Apply Output 3](tf-task3.png)
-![Terraform Apply Output 4](tf-task4.png)
+![Terraform Apply Output 4](tf-task 4.png)
 ![Terraform Apply Output 5](tf-task-5.png)
 
 ## AWS Console Verification
