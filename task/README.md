@@ -73,7 +73,7 @@ terraform output
 ![Terraform Apply Output 1](tf-task1.png)
 ![Terraform Apply Output 2](tf-task-2.png)
 ![Terraform Apply Output 3](tf-task3.png)
-![Terraform Apply Output 4](tf-task-4.png)
+![Terraform Apply Output 4](tf-task4.png)
 ![Terraform Apply Output 5](tf-task-5.png)
 
 ## AWS Console Verification
@@ -81,22 +81,6 @@ terraform output
 ![AWS Console View 1](tf-task-6.png)
 ![AWS Console View 2](tf-task-7.png)
 
-## File Structure
-
-```
-.
-├── main.tf                 # Main Terraform configuration
-├── README.md              # This file
-└── images/                # Screenshots directory
-    ├── terraform-apply-1.png
-    ├── terraform-apply-2.png
-    ├── terraform-apply-3.png
-    ├── terraform-apply-4.png
-    ├── terraform-apply-5.png
-    ├── aws-console-1.png
-    ├── aws-console-2.png
-    └── aws-console-3.png
-```
 
 ## Important Notes
 
